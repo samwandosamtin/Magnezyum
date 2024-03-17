@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <audio id="timer-sound" src="alarm.mp3"></audio>
+    <link rel="stylesheet" href="main.css">
+  </head>
+  <body class="bg-indigo-950 dark:bg-dark-mode dark">
+    <div id="top-section" class="p-6">
+        <h2 class="text-2xl font-bold mb-4">Not Defteri</h2>
+        <button id="dark-mode-toggle" class="00 hover:bg-blue-700 text-white font-bold py-1 px-2 rounded">Gece modu</button>
+        <div id="pomodoro-timer" class="flex items-center justify-normal mt-1">
+          <input type="number" id="hour-input" placeholder="Saat" class="bg-gray-200 appearance-none border-2 border-gray-200 rounded w-24 py-1 px-1 text-gray-700 leading-tight focus:outline-none focus:bg-white focus:border-purple-500">
+          <input type="number" id="minute-input" placeholder="Dakika" class="bg-gray-200 appearance-none border-2 border-gray-200 rounded w-24 py-1 px-1 text-gray-700 leading-tight focus:outline-none focus:bg-white focus:border-purple-500 ml-4">
+          <button id="start-button" class=" hover:bg-blue-700 text-white font-bold py-2 px-4 rounded ml-4">Başlat</button>
+          <button id="pause-button" class=" hover:bg-blue-700 text-white font-bold py-2 px-4 rounded ml-4">Durdur</button>
+          <button id="reset-button" class=" hover:bg-blue-700 text-white font-bold py-2 px-4 rounded ml-4">Sıfırla</button>
+          <p id="timer-display" class="text-2xl ml-1 text-red-500 ">00:00</p>
+        </div>
+    </div>
+    <h3 class="text-xl font-bold -mb-1 ml-7 sticky " >Notlar</h3>
+    <div id="app" class="flex mt-1">
+      <div id="notes-section" class="w-2/4 p-6">
+        
+        <div id="notes" class=" p-6 rounded " ></div>
+      </div>
+      <div id="write-section" class="w-2/4 p-6 -mt-12" >
+        <h3 class="text-xl font-bold mb-4">İçerik</h3>
+        <form id="note-form">
+          <input type="text" id="note-header-input" placeholder="Not Başlığı" class="appearance-none border-2 border-gray-200 rounded w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:bg-pastelYellow focus:border-purple-500 mb-4" />
+          <textarea id="note-input" style="height: 320px;" class="appearance-none border-2 border-gray-200 rounded w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none  focus:border-purple-500 mb-4 "></textarea>
+          <button id="add-button" type="submit" class=" hover:bg-red-700 text-white font-bold py-2 px-4 rounded">Ekle</button>
+          <button id="cancel-button" style="display: none;" class=" hover:bg-red-700  text-white font-bold py-2 px-4 rounded ml-4">Vazgeç</button>
+        </form>
+      </div>
+    </div>
+    <script src="renderer.js"></script>
+  </body>
+</html>

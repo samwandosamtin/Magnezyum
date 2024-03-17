@@ -1,0 +1,84 @@
+.selected-note {
+    border: 2px solid  #8B5CF6; /* Change this to the color you want */
+    border-radius: 5px;
+    background-color: rgb(255, 231, 179);
+    
+  }
+
+  
+
+body {
+    overflow: hidden;
+}
+#notes-section{
+    overflow-y: auto;
+    height: 60vh;
+}
+#notes div img {
+    margin-left: auto;
+    display: inline-block;
+    padding: 10px;
+  }
+  #notes-section::-webkit-scrollbar, #write-section::-webkit-scrollbar, #notes::-webkit-scrollbar, #write-section::-webkit-scrollbar{
+    display: none;
+    margin-right: 1em;
+  }
+
+  textarea {
+    resize: none;
+  }
+#h3notlar {
+   
+   padding-top: 20px;
+    }
+
+    #notes text {
+       margin-right: 50px;
+    }
+
+
+    body.dark-mode .selected-note {
+        background-color: #1a202c; /* Dark background color */
+        color: #f7fafc; /* Light text color */
+        
+      }
+      
+      body.dark-mode {
+        background-color: #1a202c; /* Dark background color */
+        color: #f7fafc; /* Light text color */
+        
+      }
+      body.dark-mode img {
+        filter: invert(1);
+      }
+        body.dark-mode #notes {
+            background-color: #2d3748; /* Dark background color */
+            color: #f7fafc; /* Light text color */
+            border-radius: 15px;
+            border: 1px solid #f7fafc;
+        }
+        
+    
+        body.dark-mode #write-section textarea {
+            background-color: #2d3748; /* Dark background color */
+            color: #f7fafc; /* Light text color */
+            border-radius: 15px;
+        }
+
+        body.dark-mode input[type="text"] {
+            background-color: #2d3748; /* Dark background color */
+            color: #f7fafc; /* Light text color */
+            border-radius:10px;
+            border: 1px solid #f7fafc;
+        }
+      /* Normal mode */
+      button {
+        background-color: #1f7af0; /* Green */
+        color: white;
+      }
+      
+      /* Dark mode */
+      body.dark-mode button {
+        background-color: #7836e4; /* Dark gray */
+        color: white;
+      }

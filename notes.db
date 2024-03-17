@@ -1,0 +1,186 @@
+{"header":"not eklemelik","text":"buda içerik","created_at":"2024-03-17T08:54:44.128Z","_id":"C7jX54YOoyyLEcHu"}
+{"header":"yeni","text":"not\n","created_at":"2024-03-17T08:56:36.107Z","_id":"LosfxHMTUX8s4o2y"}
+{"header":"erter","text":"ertert","created_at":"2024-03-17T10:43:57.784Z","_id":"OsV7lR42wQrJLkGo"}
+{"header":"not eklemelik","text":"buda içerik","created_at":"2024-03-17T11:20:34.198Z","_id":"TNC7sDzpwm4W3zO4"}
+{"header":"12312312444","text":"4124124444","created_at":"2024-03-17T11:20:15.580Z","_id":"TkH1oFQwMHI9jBCG"}
+{"header":"biraz dha","text":"içerik","created_at":"2024-03-17T10:43:38.870Z","_id":"gi9fVmRY0vI1LAPZ"}
+{"header":"12312312444","text":"4124124444","created_at":"2024-03-17T11:22:12.466Z","_id":"iAnT4sFAXldsfBMz"}
+{"header":"23434","text":"The auto-resizing might not be working because the autoResizeTextarea function is only called when the textarea's content changes due to user input. If you're programmatically setting the textarea's content (for example, when a note is selected), the input event is not fired and the autoResizeTextarea function is not called.\n\nTo fix this, you can call the autoResizeTextarea function manually whenever you set the textarea's content. Here's how you can do it:\n\nThe auto-resizing might not be working because the autoResizeTextarea function is only called when the textarea's content changes due to user input. If you're programmatically setting the textarea's content (for example, when a note is selected), the input event is not fired and the autoResizeTextarea function is not called.\n\nTo fix this, you can call the autoResizeTextarea function manually whenever you set the textarea's content. Here's how you can do it:","created_at":"2024-03-15T05:46:55.107Z","_id":"jpVbagtfXYQLwlMD"}
+{"header":"not eklemelik","text":"buda içerik","created_at":"2024-03-17T10:48:12.478Z","_id":"lFjDXHvHPqHzyRvo"}
+{"header":"biraz dha","text":"içerik","created_at":"2024-03-17T11:20:30.254Z","_id":"lXqAtgckos6dNUl1"}
+{"header":"12312312444","text":"4124124444","created_at":"2024-03-17T11:20:13.721Z","_id":"okfxTCwFtWmKr9zh"}
+{"header":"erter","text":"ertert","created_at":"2024-03-17T10:43:56.248Z","_id":"pEdSNQK8Z9DqzIU4"}
+{"header":"12312312444","text":"4124124444","created_at":"2024-03-15T06:16:05.791Z","_id":"soHArWbcO9mQYr5m"}
+{"header":"","text":"","created_at":"2024-03-17T11:50:19.669Z","_id":"v6aF65J0A6xk8o8V"}
+{"header":"11 20 ayhan 735 tl ","text":"","created_at":"2024-03-15T06:42:22.088Z","_id":"zDbJeOsikCZsnpGp"}
+{"header":"not eklemelik","text":"In this code, I've added a separate event listener for the \"Vazgeç\" button (cancelButton). When this button is clicked, the form's action is set to 'add', the text of the \"Add\" button is set to 'Add Note', the \"Vazgeç\" button is hidden, and the inputs are cleared. This should fix the issue with the \"Vazgeç\" button.\n\nI've also moved the selection of the form and its elements outside of the form's submit event listener. This should fix the issue with not being able to write anything in the form.In this code, I've added a separate event listener for the \"Vazgeç\" button (cancelButton). When this button is clicked, the form's action is set to 'add', the text of the \"Add\" button is set to 'Add Note', the \"Vazgeç\" button is hidden, and the inputs are cleared. This should fix the issue with the \"Vazgeç\" button.\n\nI've also moved the selection of the form and its elements outside of the form's submit event listener. This should fix the issue with not being able to write anything in the form.In this code, I've added a separate event listener for the \"Vazgeç\" button (cancelButton). When this button is clicked, the form's action is set to 'add', the text of the \"Add\" button is set to 'Add Note', the \"Vazgeç\" button is hidden, and the inputs are cleared. This should fix the issue with the \"Vazgeç\" button.\n\nI've also moved the selection of the form and its elements outside of the form's submit event listener. This should fix the issue with not being able to write anything in the form.In this code, I've added a separate event listener for the \"Vazgeç\" button (cancelButton). When this button is clicked, the form's action is set to 'add', the text of the \"Add\" button is set to 'Add Note', the \"Vazgeç\" button is hidden, and the inputs are cleared. This should fix the issue with the \"Vazgeç\" button.\n\nI've also moved the selection of the form and its elements outside of the form's submit event listener. This should fix the issue with not being able to write anything in the form.","created_at":"2024-03-17T12:02:16.857Z","_id":"k0Ci3e5KT2DNWpGe"}
+{"header":"not eklemelikr","text":"In this code, I've added a separate event listener for the \"Vazgeç\" button (cancelButton). When this button is clicked, the form's action is set to 'add', the text of the \"Add\" button is set to 'Add Note', the \"Vazgeç\" button is hidden, and the inputs are cleared. This should fix the issue with the \"Vazgeç\" button.\n\nI've also moved the selection of the form and its elements outside of the form's submit event listener. This should fix the issue with not being able to write anything in the form.In this code, I've added a separate event listener for the \"Vazgeç\" button (cancelButton). When this button is clicked, the form's action is set to 'add', the text of the \"Add\" button is set to 'Add Note', the \"Vazgeç\" button is hidden, and the inputs are cleared. This should fix the issue with the \"Vazgeç\" button.\n\nI've also moved the selection of the form and its elements outside of the form's submit event listener. This should fix the issue with not being able to write anything in the form.In this code, I've added a separate event listener for the \"Vazgeç\" button (cancelButton). When this button is clicked, the form's action is set to 'add', the text of the \"Add\" button is set to 'Add Note', the \"Vazgeç\" button is hidden, and the inputs are cleared. This should fix the issue with the \"Vazgeç\" button.\n\nI've also moved the selection of the form and its elements outside of the form's submit event listener. This should fix the issue with not being able to write anything in the form.In this code, I've added a separate event listener for the \"Vazgeç\" button (cancelButton). When this button is clicked, the form's action is set to 'add', the text of the \"Add\" button is set to 'Add Note', the \"Vazgeç\" button is hidden, and the inputs are cleared. This should fix the issue with the \"Vazgeç\" button.\n\nI've also moved the selection of the form and its elements outside of the form's submit event listener. This should fix the issue with not being able to write anything in the form.","created_at":"2024-03-17T12:02:26.899Z","_id":"iQ8McTEwRxVKBImd"}
+{"header":"not eklemelik","text":"In this code, I've added a separate event listener for the \"Vazgeç\" button (cancelButton). When this button is clicked, the form's action is set to 'add', the text of the \"Add\" button is set to 'Add Note', the \"Vazgeç\" button is hidden, and the inputs are cleared. This should fix the issue with the \"Vazgeç\" button.\n\nI've also moved the selection of the form and its elements outside of the form's submit event listener. This should fix the issue with not being able to write anything in the form.In this code, I've added a separate event listener for the \"Vazgeç\" button (cancelButton). When this button is clicked, the form's action is set to 'add', the text of the \"Add\" button is set to 'Add Note', the \"Vazgeç\" button is hidden, and the inputs are cleared. This should fix the issue with the \"Vazgeç\" button.\n\nI've also moved the selection of the form and its elements outside of the form's submit event listener. This should fix the issue with not being able to write anything in the form.","created_at":"2024-03-17T12:03:06.575Z","_id":"iuJX2G8iisGlWPgb"}
+{"$$deleted":true,"_id":"LosfxHMTUX8s4o2y"}
+{"header":"In this code, I've added a separate event listener for the \"Vazgeç\" button (cancelButton). When this button is clicked, the form's action is set to 'add', the text of the \"Add\" button is set to 'Add Note', the \"Vazgeç\" button is hidden, and the inputs are cleared. This should fix the issue with the \"Vazgeç\" button.  I've also moved the selection of the form and its elements outside of the form's submit event listener. This should fix the issue with not being able to write anything in the form.","text":"In this code, I've added a separate event listener for the \"Vazgeç\" button (cancelButton). When this button is clicked, the form's action is set to 'add', the text of the \"Add\" button is set to 'Add Note', the \"Vazgeç\" button is hidden, and the inputs are cleared. This should fix the issue with the \"Vazgeç\" button.\n\nI've also moved the selection of the form and its elements outside of the form's submit event listener. This should fix the issue with not being able to write anything in the form.","created_at":"2024-03-17T12:03:12.885Z","_id":"wqSvhjPdxYHb2lUH"}
+{"header":"erter","text":"ertert","created_at":"2024-03-17T12:03:25.291Z","_id":"aKHkMi3wZlWUnYHf"}
+{"header":"In this code, I've added a separate event listener for the \"Vazgeç\" button (cancelButton). When this button is clicked, the form's action is set to 'add', the text of the \"Add\" button is set to 'Add Note', the \"Vazgeç\" button is hidden, and the inputs are cleared. This should fix the issue with the \"Vazgeç\" button.  I've also moved the selection of the form and its elements outside of the form's submit event listener. This should fix the issue with not being able to write anything in the form.","text":"In this code, I've added a separate event listener for the \"Vazgeç\" button (cancelButton). When this button is clicked, the form's action is set to 'add', the text of the \"Add\" button is set to 'Add Note', the \"Vazgeç\" button is hidden, and the inputs are cleared. This should fix the issue with the \"Vazgeç\" button.\n\nI've also moved the selection of the form and its elements outside of the form's submit event listener. This should fix the issue with not being able to write anything in the form.In this code, I've added a separate event listener for the \"Vazgeç\" button (cancelButton). When this button is clicked, the form's action is set to 'add', the text of the \"Add\" button is set to 'Add Note', the \"Vazgeç\" button is hidden, and the inputs are cleared. This should fix the issue with the \"Vazgeç\" button.\n\nI've also moved the selection of the form and its elements outside of the form's submit event listener. This should fix the issue with not being able to write anything in the form.In this code, I've added a separate event listener for the \"Vazgeç\" button (cancelButton). When this button is clicked, the form's action is set to 'add', the text of the \"Add\" button is set to 'Add Note', the \"Vazgeç\" button is hidden, and the inputs are cleared. This should fix the issue with the \"Vazgeç\" button.\n\nI've also moved the selection of the form and its elements outside of the form's submit event listener. This should fix the issue with not being able to write anything in the form.","created_at":"2024-03-17T12:03:28.693Z","_id":"KYLX0gOj24r42Dw3"}
+{"header":"fewf","text":"In this code, I've added a separate event listener for the \"Vazgeç\" button (cancelButton). When this button is clicked, the form's action is set to 'add', the text of the \"Add\" button is set to 'Add Note', the \"Vazgeç\" button is hidden, and the inputs are cleared. This should fix the issue with the \"Vazgeç\" button.\n\nI've also moved the selection of the form and its elements outside of the form's submit event listener. This should fix the issue with not being able to write anything in the form.In this code, I've added a separate event listener for the \"Vazgeç\" button (cancelButton). When this button is clicked, the form's action is set to 'add', the text of the \"Add\" button is set to 'Add Note', the \"Vazgeç\" button is hidden, and the inputs are cleared. This should fix the issue with the \"Vazgeç\" button.\n\nI've also moved the selection of the form and its elements outside of the form's submit event listener. This should fix the issue with not being able to write anything in the form.In this code, I've added a separate event listener for the \"Vazgeç\" button (cancelButton). When this button is clicked, the form's action is set to 'add', the text of the \"Add\" button is set to 'Add Note', the \"Vazgeç\" button is hidden, and the inputs are cleared. This should fix the issue with the \"Vazgeç\" button.\n\nI've also moved the selection of the form and its elements outside of the form's submit event listener. This should fix the issue with not being able to write anything in the form.","created_at":"2024-03-17T12:03:32.614Z","_id":"kdy59sxFHJUHgboY"}
+{"header":"","text":"","created_at":"2024-03-17T12:03:33.630Z","_id":"UFaRJLFyYmICifUb"}
+{"header":"","text":"","created_at":"2024-03-17T12:03:34.492Z","_id":"eKjAi4aZ5PM180KL"}
+{"header":"","text":"","created_at":"2024-03-17T12:03:34.675Z","_id":"tE1ruI8IHCt1PTYX"}
+{"header":"","text":"","created_at":"2024-03-17T12:03:34.844Z","_id":"6xSb3QvLYGaD5XIG"}
+{"header":"","text":"","created_at":"2024-03-17T12:03:35.049Z","_id":"l7FMEnLV62yEBBN3"}
+{"header":"","text":"","created_at":"2024-03-17T12:03:35.560Z","_id":"5BiKZXlIhBtNzYAa"}
+{"header":"","text":"","created_at":"2024-03-17T12:03:35.749Z","_id":"eeKk5Q6tKiT7Polu"}
+{"header":"","text":"","created_at":"2024-03-17T12:03:35.933Z","_id":"56LpvFfEUTgsaXW3"}
+{"header":"","text":"","created_at":"2024-03-17T12:03:36.138Z","_id":"0HQMKWMg7SHbxhce"}
+{"header":"","text":"","created_at":"2024-03-17T12:03:36.332Z","_id":"OqkXBrgvZEBmOk85"}
+{"header":"","text":"","created_at":"2024-03-17T12:03:36.542Z","_id":"lJv9XluPCX2iKndc"}
+{"header":"","text":"","created_at":"2024-03-17T12:03:37.140Z","_id":"doRazHc3E6CXL5vS"}
+{"header":"","text":"","created_at":"2024-03-17T12:03:37.336Z","_id":"RtOV4gho1f3ViPZS"}
+{"header":"","text":"","created_at":"2024-03-17T12:03:37.519Z","_id":"5PFuqGGyAeCq8M75"}
+{"header":"","text":"","created_at":"2024-03-17T12:03:37.817Z","_id":"pCJZfqGrROWYG90d"}
+{"header":"","text":"","created_at":"2024-03-17T12:03:38.013Z","_id":"bNd2XSlrgL7w714y"}
+{"header":"","text":"","created_at":"2024-03-17T12:04:01.228Z","_id":"y7AxfL9XJ6nAYkRZ"}
+{"header":"In this code, I've added a separate event listener for the \"Vazgeç\" button (cancelButton). When this button is clicked, the form's action is set to 'add', the text of the \"Add\" button is set to 'Add Note', the \"Vazgeç\" button is hidden, and the inputs are cleared. This should fix the issue with the \"Vazgeç\" button.  I've also moved the selection of the form and its elements outside of the form's submit event listener. This should fix the issue with not being able to write anything in the form.","text":"In this code, I've added a separate event listener for the \"Vazgeç\" button (cancelButton). When this button is clicked, the form's action is set to 'add', the text of the \"Add\" button is set to 'Add Note', the \"Vazgeç\" button is hidden, and the inputs are cleared. This should fix the issue with the \"Vazgeç\" button.\n\nI've also moved the selection of the form and its elements outside of the form's submit event listener. This should fix the issue with not being able to write anything in the form.","created_at":"2024-03-17T12:04:06.020Z","_id":"BTbdQPUzr0EJ57sQ"}
+{"header":"","text":"","created_at":"2024-03-17T12:05:07.353Z","_id":"5Oah9DcYbGCAakPo"}
+{"header":"","text":"","created_at":"2024-03-17T12:05:36.159Z","_id":"5I96fEESyi8TGpX3"}
+{"header":"","text":"","created_at":"2024-03-17T12:05:42.204Z","_id":"cU1XhyYknVN6QotQ"}
+{"header":"","text":"","created_at":"2024-03-17T12:05:43.669Z","_id":"UN84xoQgMf2kaEnj"}
+{"header":"","text":"","created_at":"2024-03-17T12:05:43.911Z","_id":"LAvvbnpGtuAMpYmY"}
+{"header":"","text":"","created_at":"2024-03-17T12:05:44.131Z","_id":"LBi5salU6J9aoZ6Z"}
+{"header":"","text":"","created_at":"2024-03-17T12:05:44.297Z","_id":"nsP8xMQ1HdUuyfuu"}
+{"header":"","text":"","created_at":"2024-03-17T12:05:44.477Z","_id":"ljEZGgk16tpGRys0"}
+{"header":"","text":"","created_at":"2024-03-17T12:05:44.665Z","_id":"bwy4vkVLLnlQO9vi"}
+{"header":"","text":"","created_at":"2024-03-17T12:05:44.826Z","_id":"6YggS6z6wtp2etDF"}
+{"header":"","text":"","created_at":"2024-03-17T12:05:45.016Z","_id":"EWCyK3IjOYAchRq6"}
+{"header":"","text":"","created_at":"2024-03-17T12:05:45.204Z","_id":"ElcVj9atMptmiZMH"}
+{"header":"","text":"","created_at":"2024-03-17T12:05:45.525Z","_id":"JlBpD6jC4HZdOxzD"}
+{"header":"","text":"","created_at":"2024-03-17T12:05:45.741Z","_id":"j82IS58Fw5ccO9Xm"}
+{"header":"","text":"","created_at":"2024-03-17T12:05:45.937Z","_id":"SnK3FRUHNtR3VOM8"}
+{"header":"","text":"","created_at":"2024-03-17T12:05:46.134Z","_id":"UAMqnVSncRahLtOt"}
+{"header":"","text":"","created_at":"2024-03-17T12:05:46.310Z","_id":"VCPeWJPadOabfZF3"}
+{"header":"","text":"","created_at":"2024-03-17T12:05:46.493Z","_id":"J4Alr54954G4tIx5"}
+{"header":"","text":"","created_at":"2024-03-17T12:05:46.943Z","_id":"UwFMUDJZsxAWUlZv"}
+{"header":"","text":"","created_at":"2024-03-17T12:05:47.127Z","_id":"DdlRrX7zwB9sms3q"}
+{"header":"","text":"","created_at":"2024-03-17T12:05:47.291Z","_id":"g0tJPHyFLkGXV4Pi"}
+{"header":"","text":"","created_at":"2024-03-17T12:05:47.463Z","_id":"IrfMohaVgopTmvhc"}
+{"header":"","text":"","created_at":"2024-03-17T12:05:48.739Z","_id":"oEtkPJX3VdSDzDjC"}
+{"header":"ewr","text":"wer","created_at":"2024-03-17T12:05:52.511Z","_id":"z7ybGVlrZJbI74xE"}
+{"$$deleted":true,"_id":"0HQMKWMg7SHbxhce"}
+{"$$deleted":true,"_id":"56LpvFfEUTgsaXW3"}
+{"$$deleted":true,"_id":"5BiKZXlIhBtNzYAa"}
+{"$$deleted":true,"_id":"5I96fEESyi8TGpX3"}
+{"$$deleted":true,"_id":"5Oah9DcYbGCAakPo"}
+{"$$deleted":true,"_id":"5PFuqGGyAeCq8M75"}
+{"$$deleted":true,"_id":"6YggS6z6wtp2etDF"}
+{"$$deleted":true,"_id":"6xSb3QvLYGaD5XIG"}
+{"$$deleted":true,"_id":"C7jX54YOoyyLEcHu"}
+{"$$deleted":true,"_id":"DdlRrX7zwB9sms3q"}
+{"$$deleted":true,"_id":"EWCyK3IjOYAchRq6"}
+{"$$deleted":true,"_id":"ElcVj9atMptmiZMH"}
+{"$$deleted":true,"_id":"IrfMohaVgopTmvhc"}
+{"$$deleted":true,"_id":"J4Alr54954G4tIx5"}
+{"$$deleted":true,"_id":"JlBpD6jC4HZdOxzD"}
+{"$$deleted":true,"_id":"KYLX0gOj24r42Dw3"}
+{"$$deleted":true,"_id":"LAvvbnpGtuAMpYmY"}
+{"$$deleted":true,"_id":"LBi5salU6J9aoZ6Z"}
+{"$$deleted":true,"_id":"OqkXBrgvZEBmOk85"}
+{"$$deleted":true,"_id":"OsV7lR42wQrJLkGo"}
+{"$$deleted":true,"_id":"RtOV4gho1f3ViPZS"}
+{"$$deleted":true,"_id":"SnK3FRUHNtR3VOM8"}
+{"$$deleted":true,"_id":"TNC7sDzpwm4W3zO4"}
+{"$$deleted":true,"_id":"TkH1oFQwMHI9jBCG"}
+{"$$deleted":true,"_id":"UAMqnVSncRahLtOt"}
+{"$$deleted":true,"_id":"UFaRJLFyYmICifUb"}
+{"$$deleted":true,"_id":"UN84xoQgMf2kaEnj"}
+{"$$deleted":true,"_id":"UwFMUDJZsxAWUlZv"}
+{"$$deleted":true,"_id":"VCPeWJPadOabfZF3"}
+{"$$deleted":true,"_id":"aKHkMi3wZlWUnYHf"}
+{"$$deleted":true,"_id":"bwy4vkVLLnlQO9vi"}
+{"$$deleted":true,"_id":"cU1XhyYknVN6QotQ"}
+{"$$deleted":true,"_id":"eKjAi4aZ5PM180KL"}
+{"$$deleted":true,"_id":"eeKk5Q6tKiT7Polu"}
+{"$$deleted":true,"_id":"g0tJPHyFLkGXV4Pi"}
+{"$$deleted":true,"_id":"gi9fVmRY0vI1LAPZ"}
+{"$$deleted":true,"_id":"iAnT4sFAXldsfBMz"}
+{"$$deleted":true,"_id":"iQ8McTEwRxVKBImd"}
+{"$$deleted":true,"_id":"doRazHc3E6CXL5vS"}
+{"$$deleted":true,"_id":"bNd2XSlrgL7w714y"}
+{"$$deleted":true,"_id":"BTbdQPUzr0EJ57sQ"}
+{"$$deleted":true,"_id":"y7AxfL9XJ6nAYkRZ"}
+{"$$deleted":true,"_id":"j82IS58Fw5ccO9Xm"}
+{"$$deleted":true,"_id":"l7FMEnLV62yEBBN3"}
+{"$$deleted":true,"_id":"lJv9XluPCX2iKndc"}
+{"$$deleted":true,"_id":"ljEZGgk16tpGRys0"}
+{"$$deleted":true,"_id":"nsP8xMQ1HdUuyfuu"}
+{"$$deleted":true,"_id":"oEtkPJX3VdSDzDjC"}
+{"$$deleted":true,"_id":"pCJZfqGrROWYG90d"}
+{"$$deleted":true,"_id":"tE1ruI8IHCt1PTYX"}
+{"$$deleted":true,"_id":"v6aF65J0A6xk8o8V"}
+{"header":"not eklemelik9","text":"In this code, I've added a separate event listener for the \"Vazgeç\" button (cancelButton). When this button is clicked, the form's action is set to 'add', the text of the \"Add\" button is set to 'Add Note', the \"Vazgeç\" button is hidden, and the inputs are cleared. This should fix the issue with the \"Vazgeç\" button.\n\nI've also moved the selection of the form and its elements outside of the form's submit event listener. This should fix the issue with not being able to write anything in the form.In this code, I've added a separate event listener for the \"Vazgeç\" button (cancelButton). When this button is clicked, the form's action is set to 'add', the text of the \"Add\" button is set to 'Add Note', the \"Vazgeç\" button is hidden, and the inputs are cleared. This should fix the issue with the \"Vazgeç\" button.\n\nI've also moved the selection of the form and its elements outside of the form's submit event listener. This should fix the issue with not being able to write anything in the form.","created_at":"2024-03-17T12:06:33.180Z","_id":"vetBROUNdeDj1sHb"}
+{"header":"not eklemelik3","text":"In this code, I've added a separate event listener for the \"Vazgeç\" button (cancelButton). When this button is clicked, the form's action is set to 'add', the text of the \"Add\" button is set to 'Add Note', the \"Vazgeç\" button is hidden, and the inputs are cleared. This should fix the issue with the \"Vazgeç\" button.\n\nI've also moved the selection of the form and its elements outside of the form's submit event listener. This should fix the issue with not being able to write anything in the form.In this code, I've added a separate event listener for the \"Vazgeç\" button (cancelButton). When this button is clicked, the form's action is set to 'add', the text of the \"Add\" button is set to 'Add Note', the \"Vazgeç\" button is hidden, and the inputs are cleared. This should fix the issue with the \"Vazgeç\" button.\n\nI've also moved the selection of the form and its elements outside of the form's submit event listener. This should fix the issue with not being able to write anything in the form.","created_at":"2024-03-17T12:09:25.700Z","_id":"UdCYbgotHKEqKwN2"}
+{"header":"","text":"","created_at":"2024-03-17T12:09:47.233Z","_id":"hBtABtAUPPufHJhk"}
+{"header":"","text":"","created_at":"2024-03-17T12:09:49.879Z","_id":"FYo1LYUY8QNa8Lav"}
+{"header":"123","text":"123123","created_at":"2024-03-17T12:10:24.531Z","_id":"uStx4Z5dxDyOXTm3"}
+{"header":"1999","text":"1999","created_at":"2024-03-17T12:10:47.408Z","_id":"p4drxVbumEJCzLf4"}
+{"header":"","text":"","created_at":"2024-03-17T12:13:23.315Z","_id":"5JlctRmieUgoIYnt"}
+{"header":"","text":"","created_at":"2024-03-17T12:22:01.814Z","_id":"F0hBCOb3aXb7AjQ7"}
+{"header":"","text":"","created_at":"2024-03-17T12:22:03.418Z","_id":"a52NluZdp5nfIJRq"}
+{"header":"","text":"","created_at":"2024-03-17T12:22:04.736Z","_id":"rwQj8bbIVWjl67qq"}
+{"header":"","text":"","created_at":"2024-03-17T12:22:06.052Z","_id":"qC4EdCAIuJmoQ3qL"}
+{"header":"343","text":"34","created_at":"2024-03-17T12:22:09.179Z","_id":"Up0RMxewyg9lUyYy"}
+{"$$deleted":true,"_id":"5JlctRmieUgoIYnt"}
+{"$$deleted":true,"_id":"F0hBCOb3aXb7AjQ7"}
+{"$$deleted":true,"_id":"FYo1LYUY8QNa8Lav"}
+{"$$deleted":true,"_id":"UdCYbgotHKEqKwN2"}
+{"$$deleted":true,"_id":"Up0RMxewyg9lUyYy"}
+{"$$deleted":true,"_id":"a52NluZdp5nfIJRq"}
+{"$$deleted":true,"_id":"hBtABtAUPPufHJhk"}
+{"$$deleted":true,"_id":"iuJX2G8iisGlWPgb"}
+{"$$deleted":true,"_id":"jpVbagtfXYQLwlMD"}
+{"$$deleted":true,"_id":"k0Ci3e5KT2DNWpGe"}
+{"$$deleted":true,"_id":"kdy59sxFHJUHgboY"}
+{"$$deleted":true,"_id":"lFjDXHvHPqHzyRvo"}
+{"$$deleted":true,"_id":"lXqAtgckos6dNUl1"}
+{"$$deleted":true,"_id":"okfxTCwFtWmKr9zh"}
+{"$$deleted":true,"_id":"p4drxVbumEJCzLf4"}
+{"$$deleted":true,"_id":"pEdSNQK8Z9DqzIU4"}
+{"$$deleted":true,"_id":"qC4EdCAIuJmoQ3qL"}
+{"$$deleted":true,"_id":"rwQj8bbIVWjl67qq"}
+{"$$deleted":true,"_id":"soHArWbcO9mQYr5m"}
+{"$$deleted":true,"_id":"uStx4Z5dxDyOXTm3"}
+{"$$deleted":true,"_id":"vetBROUNdeDj1sHb"}
+{"$$deleted":true,"_id":"wqSvhjPdxYHb2lUH"}
+{"$$deleted":true,"_id":"z7ybGVlrZJbI74xE"}
+{"header":"","text":"","created_at":"2024-03-17T12:22:25.959Z","_id":"UpSqVDC0WAi56VcO"}
+{"$$deleted":true,"_id":"UpSqVDC0WAi56VcO"}
+{"header":"eveet bütün notları sildik hadi bakalım","text":"","created_at":"2024-03-17T12:22:34.617Z","_id":"m9dMfvrDNd3Dq86h"}
+{"header":"eveet bütün notları sildik hadi bakalım","text":"9999","created_at":"2024-03-17T12:22:43.585Z","_id":"FMEebYvNTdj8sIQw"}
+{"header":"eveet bütün notları sildik","text":"9999","created_at":"2024-03-17T12:26:58.873Z","_id":"XotxTumR76x5qYpd"}
+{"header":"1eveet bütün notları sildik hadi bakalım","text":"9999","created_at":"2024-03-17T12:33:05.183Z","_id":"zkgJvjyaMFlF656X"}
+{"header":"eveet bütün notları sildik hadi bakalım4444","text":"9999","created_at":"2024-03-17T12:33:11.070Z","_id":"dY2Md1fuXn3KLqrQ"}
+{"header":"rrrr","text":"rrr","created_at":"2024-03-17T12:33:32.706Z","_id":"BOhGSrRWyTZFLy0n"}
+{"header":"333","text":"rrr","created_at":"2024-03-17T12:33:32.706Z","_id":"BOhGSrRWyTZFLy0n"}
+{"$$deleted":true,"_id":"FMEebYvNTdj8sIQw"}
+{"header":"","text":"","created_at":"2024-03-17T12:50:15.867Z","_id":"lpVVoo2falsj0bv1"}
+{"$$deleted":true,"_id":"dY2Md1fuXn3KLqrQ"}
+{"header":"","text":"","created_at":"2024-03-17T12:53:49.136Z","_id":"XIXHM5HaLIITSRAm"}
+{"header":"","text":"","created_at":"2024-03-17T12:53:50.057Z","_id":"Hw2Yu5c10lonKNjj"}
+{"header":"1eveet bütün notları sildik hadi bakalım","text":"9999","created_at":"2024-03-17T12:33:05.183Z","_id":"zkgJvjyaMFlF656X"}
+{"header":"","text":"","created_at":"2024-03-17T13:20:01.272Z","_id":"qxG1Zj7A4Bf3fWG5"}
+{"$$deleted":true,"_id":"qxG1Zj7A4Bf3fWG5"}
+{"header":"eveet bütün notları sildik hadi bakalım","text":"","created_at":"2024-03-17T12:22:34.617Z","_id":"m9dMfvrDNd3Dq86h"}
+{"$$deleted":true,"_id":"Hw2Yu5c10lonKNjj"}
+{"$$deleted":true,"_id":"XotxTumR76x5qYpd"}
+{"$$deleted":true,"_id":"zDbJeOsikCZsnpGp"}
+{"header":"hueuheu","text":"hehehe","created_at":"2024-03-17T14:10:25.507Z","_id":"vI1AfEYzczava6pB"}
+{"header":"hıehıueıhıe1","text":"hehe","created_at":"2024-03-17T14:10:29.722Z","_id":"vCBd7KudCuef1ljW"}
+{"header":"ergergerg","text":"ergegr","created_at":"2024-03-17T12:53:49.136Z","_id":"XIXHM5HaLIITSRAm"}
+{"header":"3334","text":"rrr","created_at":"2024-03-17T12:33:32.706Z","_id":"BOhGSrRWyTZFLy0n"}
+{"header":"ğğğğ","text":"ğğğ","created_at":"2024-03-17T14:10:44.507Z","_id":"2QoJYOw2tH2rZHPP"}
+{"header":"","text":"","created_at":"2024-03-17T14:10:44.698Z","_id":"oEQMwMgy0a0zCrnL"}
+{"header":"ğğğğğğğğ3","text":"33","created_at":"2024-03-17T14:10:48.362Z","_id":"pymTRouUgrU9gMzH"}
+{"header":"ğp3pğ4pğ3","text":"3p4lp3l4ğ","created_at":"2024-03-17T14:10:52.251Z","_id":"JMCRkBQqPAG4zjKz"}
+{"header":"3p434","text":"3ğpl4pğ3","created_at":"2024-03-17T14:10:55.838Z","_id":"HslBSol6VYnruye1"}
+{"header":"eveet bütün notları sildik hadi bakalım","text":"I apologize for the confusion. If the notes are not getting the background color, it might be due to the specificity of the CSS selectors or the order of the CSS rules.\n\nCSS rules are applied in the order they are defined, and later rules will override earlier rules if they have the same specificity. In your CSS, the .note.dark-mode rule is defined before the .note rule, so the .note rule will override the .note.dark-mode rule for the background color.\n\nTo fix this, you can move the .note rule above tI apologize for the confusion. If the notes are not getting the background color, it might be due to the specificity of the CSS selectors or the order of the CSS rules.\n\nCSS rules are applied in the order they are defined, and later rules will override earlier rules if they have the same specificity. In your CSS, the .note.dark-mode rule is defined before the .note rule, so the .note rule will override the .note.dark-mode rule for the background color.\n\nTo fix this, you can move the .note rule above tI apologize for the confusion. If the notes are not getting the background color, it might be due to the specificity of the CSS selectors or the order of the CSS rules.\n\nCSS rules are applied in the order they are defined, and later rules will override earlier rules if they have the same specificity. In your CSS, the .note.dark-mode rule is defined before the .note rule, so the .note rule will override the .note.dark-mode rule for the background color.\n\nTo fix this, you can move the .note rule above tr32","created_at":"2024-03-17T12:22:34.617Z","_id":"m9dMfvrDNd3Dq86h"}
+{"$$deleted":true,"_id":"2QoJYOw2tH2rZHPP"}
+{"$$deleted":true,"_id":"HslBSol6VYnruye1"}
+{"$$deleted":true,"_id":"m9dMfvrDNd3Dq86h"}
+{"$$deleted":true,"_id":"BOhGSrRWyTZFLy0n"}
